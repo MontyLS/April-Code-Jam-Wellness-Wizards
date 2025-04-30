@@ -12,7 +12,7 @@ Interactive story showing how activity level, age group, and gender intersect to
 ---
 
 ## Danni Cleveland
-**Dashboard:** [Book1 – Cognitive Function & Lifestyle Impact](https://public.tableau.com/views/Book1_17427528768760/Story1)  
+**Dashboard:** [Book1 – Cognitive Function & Lifestyle Impact](https://public.tableau.com/views/CodePudding/Story1)  
 **Description:**  
 An engaging walk-through of how smoking and alcohol habits relate to cognitive performance, highlighting which age groups are most affected and how lifestyle factors influence mental sharpness.
 
