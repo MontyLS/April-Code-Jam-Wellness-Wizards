@@ -19,6 +19,6 @@ An engaging walk-through of how smoking and alcohol habits relate to cognitive p
 ---
 
 ## Michael Austria
-**Dashboard:** [Human Age Prediction – Model Summary & Insight](https://public.tableau.com/app/profile/michael.austria/viz/HumanAgePredictiondata/Conclusion)  
+**Dashboard:** [Human Age Prediction – Model Summary & Insight](https://public.tableau.com/views/HumanAgePredictiondata/KeyFindings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 **Description:**  
 A user-friendly overview showing how well the model’s age guesses match real ages, where it was most and least accurate, and which health or lifestyle factors influenced those predictions the most.
